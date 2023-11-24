@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     //Aggiungo event listener per il pulsante resetta
-    bottoneResetta.addEventListener('click', function () {
+    resetta.addEventListener('click', function () {
         valoreContatore = 0;
         aggiornaTitolo();
     });
