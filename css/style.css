@@ -25,12 +25,17 @@ button {
     border: none;
 }
 
-#incremento {
-    background-color: green!important;
+#decremento {
+    background-color: red;
     color: white;
 }
 
-#decremento {
-    background-color: red;
+#resetta {
+    background-color: lightgrey;
+    color: black;
+}
+
+#incremento {
+    background-color: green!important;
     color: white;
 }
