@@ -13,7 +13,7 @@ Un'applicazione JavaScript che permette all'utente di aumentare e decrementare i
 I pulsanti e la visualizzazione del valore iniziale del contatore devono essere implementati con JavaScript.
 Non è permesso l'utilizzo di Jquery, né di framework (React, Angular, Vue...).
 
-## Screenshot finale dell'app
+## Screenshot dell'app
 ![Screenshot dell'app Counter](https://raw.githubusercontent.com/ricchio-giulia/Progetto_JavaScript_Basics/main/screenshot/Anteprima-app.png) 
 
 ## Prova l'Applicazione
