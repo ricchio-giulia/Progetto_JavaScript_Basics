@@ -12,7 +12,7 @@ I pulsanti +/- e la visualizzazione del valore iniziale del counter devono esser
 Non è permesso l'utilizzo di Jquery, né di framework (React, Angular, Vue...).
 
 ## Screenshot finale dell'app
-![Screenshot dell'app Counter](https://raw.githubusercontent.com/ricchio-giulia/Progetto_JavaScript_Basics/main/screenshot/Counter-app.png)
+![Screenshot dell'app Counter](https://raw.githubusercontent.com/ricchio-giulia/Progetto_JavaScript_Basics/main/screenshot/Anteprima-app.png) 
 
 ## Prova l'Applicazione
 Puoi provare l'applicazione Counter seguendo questo link: https://app-contatore.netlify.app/
