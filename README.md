@@ -1,5 +1,5 @@
 # Progetto_JavaScript_Basics
-Una semplice applicazione che funziona come un counter.
+Una semplice applicazione che funziona come un contatore.
 
 ## Descrizione del Progetto
 Un'applicazione JavaScript che permette all'utente di aumentare e decrementare il valore del contatore.
