@@ -1,0 +1,36 @@
+body {
+    font-family: Inter, sans-serif;
+    display: flex; /*container flessibile, i figli possono espandersi per riempire lo spazio disponibile*/
+    justify-content: center; /*centrare orizzontalmente gli elementi in body*/
+    align-items: center; /*centrare verticalmente gli elementi in body*/
+    height: 100vh; /*body occuperà l'intera altezza della finestra browser; non servirà scroll verticale*/
+    margin: 0; /**/
+}
+
+.counter-container {
+    text-align: center;
+}
+
+#counter {
+    font-size: 40px;
+    margin: 10px;
+}
+
+button {
+    font-size: 20px;
+    padding: 16px 24px;
+    border-radius: 16px;
+    cursor: pointer;
+    margin: 8px;
+    border: none;
+}
+
+#incremento {
+    background-color: green!important;
+    color: white;
+}
+
+#decremento {
+    background-color: red;
+    color: white;
+}
